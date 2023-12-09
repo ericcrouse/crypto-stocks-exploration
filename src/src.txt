@@ -1,0 +1,6 @@
+All code is currently contained in a single .ipynb file. This allows users to conveniently "Run all," but is not optimal for future updates and debugging. 
+
+Future versions of this project will feature separate .py files for specific tasks.
+
+The program can be viewed here but visuals are limited in GitHub environment. It is recommended to run the notebook in a Google Colab environment as described in the README.
+
